@@ -9,7 +9,9 @@ void memberDavid(){
 }
 
 void memberColton(){
+
 //member 3 info
+printf("Colton Gerth\n");
 }
 
 void memberQihui(){
@@ -23,7 +25,7 @@ int main(){
 	printf("----------------Group-4----------------\n");
 	printf("---------------------------------------\n");
 	printf("----------------Members----------------\n");
-	
+
 	memberRob();
 	memberDavid();
 	memberColton();
@@ -31,4 +33,4 @@ int main(){
 	memberBrendan();
 
 	return 1;
-}	
+}
