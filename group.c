@@ -14,7 +14,7 @@ void memberColton(){
 printf("Colton Gerth\n");
 printf("Sophmore");
 printf("Major: Computer Science Minor: Mathmatics");
-
+printf("Videogames, flyfishing");
 }
 
 void memberQihui(){
