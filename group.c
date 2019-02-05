@@ -11,10 +11,11 @@ void memberDavid(){
 void memberColton(){
 
 //member 3 info
-printf("Colton Gerth\n");
-printf("Sophmore");
-printf("Major: Computer Science Minor: Mathmatics");
-printf("Videogames, flyfishing");
+printf("Colton Gerth.\n");
+printf("Sophmore.\n");
+printf("Major: Computer Science Minor: Mathmatics.\n");
+printf("Videogames, flyfishing.\n");
+printf("St. Charles, Illinois. Billings, Montana. Missoula, Montana.\n");
 }
 
 void memberQihui(){
