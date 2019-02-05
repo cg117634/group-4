@@ -12,6 +12,7 @@ void memberColton(){
 
 //member 3 info
 printf("Colton Gerth\n");
+printf("Sophmore");
 }
 
 void memberQihui(){
