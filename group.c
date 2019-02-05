@@ -13,6 +13,8 @@ void memberColton(){
 //member 3 info
 printf("Colton Gerth\n");
 printf("Sophmore");
+printf("Major: Computer Science Minor: Mathmatics");
+
 }
 
 void memberQihui(){
