@@ -16,6 +16,7 @@ printf("Sophmore.\n");
 printf("Major: Computer Science Minor: Mathmatics.\n");
 printf("Videogames, flyfishing.\n");
 printf("St. Charles, Illinois. Billings, Montana. Missoula, Montana.\n");
+printf("I've been a MOA wrestling official for about 3 years now.\n");
 }
 
 void memberQihui(){
